@@ -25,3 +25,7 @@ Follow these steps to set up your environment:
 
 ```bash
 git clone <https://github.com/MuhammadAliAhson/KNN-in-Python-from-scratch>
+```
+
+## Medium Article
+- [Steps You Need to Learn for KNN Algorithm](https://medium.com/dev-genius/steps-you-need-to-learn-for-knn-algorithm-2a9d342cb1af) - Read the Medium article discussing the steps involved in learning the KNN algorithm.
